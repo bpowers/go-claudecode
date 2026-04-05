@@ -2,7 +2,7 @@ package claudecode
 
 import (
 	"context"
-	"encoding/json/jsontext"
+	"github.com/go-json-experiment/json/jsontext"
 	"os"
 	"os/exec"
 	"path/filepath"
